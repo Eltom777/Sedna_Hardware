@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/lthom/Documents/3rd-Party-KiCad-Libraries/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "C:/Users/lthom/Documents/3rd-Party-KiCad-Libraries/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/espressif-kicad-lib/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/digikey-kicad-lib/digikey-footprints.pretty")(options "")(descr ""))
 )
