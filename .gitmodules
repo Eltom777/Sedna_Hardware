@@ -1,0 +1,6 @@
+[submodule "3rdPartyLibs/espressif-kicad-lib"]
+	path = 3rdPartyLibs/espressif-kicad-lib
+	url = https://github.com/espressif/kicad-libraries.git
+[submodule "3rdPartyLibs/digikey-kicad-lib"]
+	path = 3rdPartyLibs/digikey-kicad-lib
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
