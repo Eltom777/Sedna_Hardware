@@ -119,7 +119,11 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.254,
+        0.762,
+        1.016,
+        1.778
       ],
       "via_dimensions": [
         {
@@ -381,7 +385,7 @@
         "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.508,
+        "track_width": 1.016,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
