@@ -151,4 +151,5 @@
   (lib (name "dk_Addressable-Specialty")(type "Legacy")(uri "${KIPRJMOD}/3rdPartyLibs/digikey-kicad-lib/digikey-symbols/dk_Addressable-Specialty.lib")(options "")(descr ""))
   (lib (name "Espressif")(type "Legacy")(uri "${KIPRJMOD}/3rdPartyLibs/espressif-kicad-lib/libraries/Espressif.lib")(options "")(descr ""))
   (lib (name "2022-02-17_02-36-04")(type "Legacy")(uri "${KIPRJMOD}/3rdPartyLibs/Relays/KiCAD/2022-02-17_02-36-04/2022-02-17_02-36-04.lib")(options "")(descr ""))
+  (lib (name "ALDP105W")(type "Legacy")(uri "${KIPRJMOD}/3rdPartyLibs/ALDP105W/ALDP105W.lib")(options "")(descr ""))
 )
