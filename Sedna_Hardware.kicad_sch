@@ -4969,7 +4969,7 @@
     (property "Category" "Ceramic Capacitors" (id 6) (at 48.26 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DK_Datasheet_LInk" "https://www.vishay.com/docs/45171/kseries.pdf" (id 7) (at 48.26 35.56 0)
+    (property "DK_Datasheet_Link" "https://www.vishay.com/docs/45171/kseries.pdf" (id 7) (at 48.26 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "DK_Detail_Page" "https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF53L2/2820506" (id 8) (at 48.26 35.56 0)
