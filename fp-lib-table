@@ -6,6 +6,6 @@
   (lib (name "2-644488-2")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/2-644488-2")(options "")(descr ""))
   (lib (name "2-644488-3")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/2-644488-3")(options "")(descr ""))
   (lib (name "5-103634-2")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/5-103634-2")(options "")(descr ""))
-  (lib (name "ALDP105W")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/ALDP105W")(options "")(descr ""))
   (lib (name "3306K-1-103")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/3306K-1-103")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/3rdPartyLibs/Relay_TE Connectivity_1461352-2/eec.pretty")(options "")(descr ""))
 )
